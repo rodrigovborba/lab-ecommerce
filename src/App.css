@@ -20,3 +20,25 @@
 .App-link {
   color: #09d3ac;
 }
+
+.card-title {
+  text-align: start;
+  margin-bottom: -22px;
+  font-size: 12px;
+}
+
+.card-body p {
+  text-align: end;
+}
+
+.div-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 80px;
+}
+
+.price {
+  margin-top: 7px;
+  font-size: 12px;
+}
